@@ -1,7 +1,3 @@
-# mail-redspins
-redspins
-
-
 # mail-redspins-share
 
 The sources are in the "mail-1" folder
